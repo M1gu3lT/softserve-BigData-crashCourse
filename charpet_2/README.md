@@ -63,14 +63,14 @@ datadriven_bd
 SELECT * FROM golden_layer.pii_data LIMIT 10;
 ```
 
-![Resultado 1](charpet_2//pii_data-1.png)
+![Resultado 1](pii_data-1.png)
 
-![Resultado 2](charpet_2/pii_data-2.png)
+![Resultado 2](pii_data-2.png)
 
 ### Vista general
 
-![General](charpet_2/general.png)
+![General](general.png)
 
 ### Estructura y contenido
 
-![Estructura](charpet_2/estructura-contenido.png)
+![Estructura](estructura-contenido.png)
